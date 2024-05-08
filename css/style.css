@@ -4,7 +4,9 @@ body {
   background-color: #f8f8f8;
   overflow-x: hidden;
 }
-
+.tex-align-center {
+  text-align: center; /* จัดข้อความให้อยู่ตรงกลาง */
+}
 .layout_padding {
   padding: 90px 0;
 }
